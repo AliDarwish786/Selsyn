@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: 17.0.7 (Private Build)
+
+Name: com/darwish/selsyn/Selsyn.class
+Java-Bean: True
+
+
